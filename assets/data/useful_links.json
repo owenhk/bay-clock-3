@@ -33,5 +33,10 @@
         "label": "Library",
         "icon": "https://library.bayschoolsf.org",
         "click": "Placeholder"
+    },
+    {
+      "label": "Homework help 😇",
+      "icon": "https://chatgpt.com",
+      "click": "Placeholder"
     }
 ]
